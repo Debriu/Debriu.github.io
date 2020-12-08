@@ -1,2 +1,2 @@
-# debriu.github.io
+# debriu
 My website
